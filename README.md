@@ -6,15 +6,32 @@
 ![Ark](https://github.com/choicopy-epub/Project-Ark/blob/main/static/images/ark_1.jpg)
 
 # 프로젝트 구성
-[1. 지반에 대한 이슈 (기초 및 구조 안정성)](./https://github.com/choicopy-epub/Project-Ark/blob/main/1.Ground_Issues.md)(  )
-2. 건축물 설계 (건물 외피 성능)(  )
-3. 인테리어 (유연성 및 미니멀리즘)(  )
-4. HVAC (Heating, Ventilation, and Air Conditioning)(  )
-5. 에너지 수확 (Harvestion)(  )
-6. 에너지 저장(  )
-7. 물 관리 (Water Manager)(  )
-8. 폐기물 처리(  )
-9. 독립 네트워크 및 데이터 관리(  )
+[1. 지반에 대한 이슈 (기초 및 구조 안정성)](./https://github.com/choicopy-epub/Project-Ark/blob/main/1.Ground_Issues.md)
+
+
+2. 건축물 설계 (건물 외피 성능)
+
+
+3. 인테리어 (유연성 및 미니멀리즘)
+
+
+4. HVAC (Heating, Ventilation, and Air Conditioning)
+
+
+5. 에너지 수확 (Harvestion)
+
+
+6. 에너지 저장
+
+
+7. 물 관리 (Water Manager)
+
+
+8. 폐기물 처리
+
+
+9. 독립 네트워크 및 데이터 관리
+
 
 # 프로젝트 프로그램 설치방법
 구성 참고, 프로젝트는 실제 삶과 연결되었으며,
