@@ -6,7 +6,7 @@
 ![Ark](https://github.com/choicopy-epub/Project-Ark/blob/main/static/images/ark_1.jpg)
 
 # 프로젝트 구성
-1. 지반에 대한 이슈 (기초 및 구조 안정성)(./https://github.com/choicopy-epub/Project-Ark/blob/main/1.Ground_Issues.md)
+[1. 지반에 대한 이슈 (기초 및 구조 안정성)](./https://github.com/choicopy-epub/Project-Ark/blob/main/1.Ground_Issues.md)
 2. 건축물 설계 (건물 외피 성능)
 3. 인테리어 (유연성 및 미니멀리즘)
 4. HVAC (Heating, Ventilation, and Air Conditioning)
@@ -42,38 +42,3 @@ v 0.1 (2025-07-20)
 
 # FAQ
 2025-07-20 현재 문의는 lsychh@gmail.com 메일로 가능)
-2. 건축물 설계 (건물 외피 성능)
-3. 인테리어 (유연성 및 미니멀리즘)
-4. HVAC (Heating, Ventilation, and Air Conditioning)
-5. 에너지 수확 (Harvestion)
-6. 에너지 저장
-7. 물 관리 (Water Manager)
-8. 폐기물 처리
-9. 독립 네트워크 및 데이터 관리
-
-# 프로젝트 프로그램 설치방법
-구성 참고, 프로젝트는 실제 삶과 연결되었으며,
-github.com 프로젝트명 Project-Ark 페이지에 .md 파일 및 여러 파일을 등록하여 누구나 쉽게 사용하도록 할 계획이다.
-
-# 프로젝트 프로그램 사용법
-v 0.1 버전에서는 기타 프로그램이 사용되지 않아 사용법이 존재하지 않다.
-
-
-# 저작권 및 사용권 정보
-본 프로젝트에서 아이디어와 노하우 & 구조와 절차 저작권 및 사용권은 자연인 최현에게 있음.
-
-# 프로그래머 정보
-최현
-프로필 링크 : https://choihyun.netlify.app
-
-# 버그 및 디버그
-v 0.1 버그 미발견
-
-# 참고 및 출처
-gemini.google.com Pro 2.5
-
-# 버전 및 업데이트 정보
-v 0.1 (2025-07-20) 
-
-# FAQ
-2025-07-20 현재 문의는 lsychh@gmail.com 메일로 가능
