@@ -10,7 +10,7 @@
 1. 지반에 대한 이슈 (기초 및 구조 안정성)
 2. 건축물 설계 (건물 외피 성능)
 3. 인테리어 (유연성 및 미니멀리즘)
-4. 난방, 냉방 (핵심 에너지 시스템)
+4. HVAC (Heating, Ventilation, and Air Conditioning)
 5. 에너지 수확 (Harvestion)
 6. 에너지 저장
 7. 물 관리 (Water Manager)
