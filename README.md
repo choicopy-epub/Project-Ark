@@ -9,28 +9,28 @@
 [1. 지반에 대한 이슈 (기초 및 구조 안정성)](https://github.com/choicopy-epub/Project-Ark/blob/main/1.Ground_Issues.md)
 
 
-2. 건축물 설계 (건물 외피 성능)
+[2. 건축물 설계 (건물 외피 성능)](https://github.com/choicopy-epub/Project-Ark/blob/main/2.architectural_design.md)
 
 
-3. 인테리어 (유연성 및 미니멀리즘)
+[3. 인테리어 (유연성 및 미니멀리즘)](https://github.com/choicopy-epub/Project-Ark/blob/main/3.interior.md)
 
 
-4. HVAC (Heating, Ventilation, and Air Conditioning)
+[4. HVAC (Heating, Ventilation, and Air Conditioning)](https://github.com/choicopy-epub/Project-Ark/blob/main/4.HAVC.md)
 
 
-5. 에너지 수확 (Harvestion)
+[5. 에너지 수확 (Harvestion)](https://github.com/choicopy-epub/Project-Ark/blob/main/5.Energy_Harvesting.md)
 
 
-6. 에너지 저장
+[6. 에너지 저장](https://github.com/choicopy-epub/Project-Ark/blob/main/6.Energy_Storage.md)
 
 
-7. 물 관리 (Water Manager)
+[7. 물 관리 (Water Manager)](https://github.com/choicopy-epub/Project-Ark/blob/main/7.Water_Management.md)
 
 
-8. 폐기물 처리
+[8. 폐기물 처리](https://github.com/choicopy-epub/Project-Ark/blob/main/8.Waste_Management.md)
 
 
-9. 독립 네트워크 및 데이터 관리
+[9. 독립 네트워크 및 데이터 관리](https://github.com/choicopy-epub/Project-Ark/blob/main/9.network.md)
 
 
 # 프로젝트 프로그램 설치방법
